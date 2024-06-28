@@ -1,8 +1,8 @@
-package org.koreait.tests;
+package org.jwtxzll.tests;
 
 import org.junit.jupiter.api.Test;
-import org.koreait.api.members.dto.RequestJoin;
-import org.koreait.models.member.MemberJoinService;
+import org.jwtxzll.api.members.dto.RequestJoin;
+import org.jwtxzll.models.member.MemberJoinService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.TestPropertySource;
